@@ -4,14 +4,14 @@ This is my data science portfolio. I am a Data Science Fellow with hands-on trai
 ## The Knowledge House
 - Innovation Fellowship - Data Science  Track              Expected Graduation December 2025
 
-## Morehouse School of Medicine                              May 2020 
-- Doctorate of Biomedical Sciences 
+## Morehouse School of Medicine                             
+- Doctorate of Biomedical Sciences -  May 2020 
 
-## Morehouse School of Medicine                              May 2020
-- Master of Clinical Research  
+## Morehouse School of Medicine                              
+- Master of Clinical Research  -  May 2020 
 
-## University of Arkansas at Pine Bluff                      May 2015 
-- Bachelor of Chemistry 
+## University of Arkansas at Pine Bluff                      
+- Bachelor of Chemistry - May 2015 
 
 ## Projects
 ### Bloomberg - Data Science Hackathon 1st Place Winner       July 2026 

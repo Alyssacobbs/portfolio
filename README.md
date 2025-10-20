@@ -1,23 +1,23 @@
 # Data Scientist 
 
 ### Education
-The Knowledge House
-Innovation Fellowship - Data Science  Track              Expected Graduation December 2025
+- The Knowledge House
+- Innovation Fellowship - Data Science  Track              Expected Graduation December 2025
 
-Morehouse School of Medicine                              May 2020 
-Doctorate of Biomedical Sciences 
+- Morehouse School of Medicine                              May 2020 
+- Doctorate of Biomedical Sciences 
 
-Morehouse School of Medicine                              May 2020
-Master of Clinical Research  
+- Morehouse School of Medicine                              May 2020
+- Master of Clinical Research  
 
-University of Arkansas at Pine Bluff                      May 2015 
-Bachelor of Chemistry 
+- University of Arkansas at Pine Bluff                      May 2015 
+- Bachelor of Chemistry 
 
-### Projects
-Bloomberg - Data Science Hackathon 1st Place Winner       July 2026 
-● Led a team of 6 developers to build an accessibility-focused community platform that helps users find and rate volunteer opportunities based on location and interests. 
-● Designed and implemented the front-end interface using Figma, creating an intuitive user experience with accessibility features 
-● Presented solution to a panel of industry judges, winning 1st place among 30 competing teams 
+## Projects
+###Bloomberg - Data Science Hackathon 1st Place Winner       July 2026 
+- Led a team of 6 developers to build an accessibility-focused community platform that helps users find and rate volunteer opportunities based on location and interests. 
+- Designed and implemented the front-end interface using Figma, creating an intuitive user experience with accessibility features 
+ - Presented solution to a panel of industry judges, winning 1st place among 30 competing teams 
 
 SQLProductAnalysis                           June 2025 
 ● Performed ad-hoc analysis using SQL on a relational database to uncover trends in customer behavior and order activity. 
